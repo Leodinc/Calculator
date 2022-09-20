@@ -1,4 +1,4 @@
-###Calculator Web App
+### Calculator Web App
 
 This is a simple calculator web app created using React.js. It implements manually the logic of all buttons, which are components created specifically for their task.
 
